@@ -34,5 +34,5 @@ The SQL database was developed to store and manage data for a hotel, ensuring ef
   - **Triggers**: To enforce data consistency (e.g., updating room availability after a booking).
 
 ## How to Access the Database
-**Click on the Link below**
+**Click here**
 https://github.com/UshmiKuvadia/SQL-Project/commit/9fa7bc86cd5ae88a405aac894f3b03caf747fdeb
