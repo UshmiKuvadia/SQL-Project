@@ -32,3 +32,7 @@ The SQL database was developed to store and manage data for a hotel, ensuring ef
   - **JOIN operations**: To connect multiple related tables for comprehensive reporting (e.g., guest bookings, room availability, service usage).
   - **Stored procedures**: For automating repetitive tasks such as generating reports or updating guest information.
   - **Triggers**: To enforce data consistency (e.g., updating room availability after a booking).
+
+## How to Access the Database
+**Click on the Link below**
+https://github.com/UshmiKuvadia/SQL-Project/commit/9fa7bc86cd5ae88a405aac894f3b03caf747fdeb
